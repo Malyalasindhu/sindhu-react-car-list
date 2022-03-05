@@ -14,14 +14,6 @@ const AppHeader: React.FC = () => {
                     >
                         Logo here
                     </Typography>
-                    <Typography
-                        variant="h6"
-                        noWrap
-                        component="div"
-                        sx={{ flexGrow: 1, display: { xs: 'flex', md: 'none' } }}
-                    >
-                        LOGO
-                    </Typography>
                 </Toolbar>
             </Container>
         </AppBar>
